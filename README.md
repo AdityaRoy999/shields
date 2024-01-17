@@ -23,6 +23,7 @@
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
 </p>
+!Visitor Count
 
 This is home to [Shields.io][shields.io], a service for concise, consistent,
 and legible badges in SVG and raster format, which can easily be included in
